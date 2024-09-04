@@ -1,0 +1,38 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.img-bg {
+    background-color: #161616;
+    background-image: url(../img/background.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.nav-bg{
+    background-color: black;
+}
+
+ul{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+ol{
+    padding: 10px;
+    font-size: larger;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+    border-width: 5px;
+    border-bottom: solid;
+    border-color: coral;
+    color: white;
+}
